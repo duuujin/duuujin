@@ -12,15 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=duuujin&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/duuujin"
-  width="600"
-  height="300"
-/>
-</a>
-
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Hello!%20I'm%20dujin&animation=fadeIn&fontColor=ffffff&fontSize=70" />
     </div>
@@ -51,5 +42,14 @@ Here are some ideas to get you started:
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duuujin&layout=compact&bg_color=60,91e3de,ffffff&title_color=000000&text_color=000000"
            /> </div> 
     </div>
-    
+
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=duuujin&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/duuujin"
+  width="600"
+  height="300"
+/>
+</a>
+
 ![](./profile-3d-contrib/profile-gitblock.svg)
