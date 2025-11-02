@@ -43,12 +43,12 @@ Here are some ideas to get you started:
            /> </div> 
     </div>
 
-<!-- ![](./profile-3d-contrib/profile-gitblock.svg) -->
+![](./profile-3d-contrib/profile-gitblock.svg)
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=duuujin&utm_content=farm">
+<!-- <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=duuujin&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/duuujin"
   width="600"
   height="300"
 />
-</a>
+</a> -->
