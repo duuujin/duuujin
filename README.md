@@ -12,7 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-    
+<div align= "center">
+    <!-- <div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Hello!%20I'm%20dujin&animation=fadeIn&fontColor=ffffff&fontSize=70" />
+    </div>
+    -->
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
@@ -35,7 +39,11 @@ Here are some ideas to get you started:
           <!-- <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> -->
           <br/></div>
     </div>
-    
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> 
+        <!-- <img src="https://github-readme-stats.vercel.app/api?username=duuujin&bg_color=60,91e3de,ffffff&title_color=000000&text_color=000000"/> -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duuujin&layout=compact&bg_color=60,91e3de,ffffff&title_color=000000&text_color=000000"/> </div> 
+    </div>
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
@@ -46,8 +54,3 @@ Here are some ideas to get you started:
   height="300"
 />
 </a> -->
-<div style="text-align: left;"> 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> 
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=duuujin&bg_color=60,91e3de,ffffff&title_color=000000&text_color=000000"/> -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duuujin&layout=compact&bg_color=60,91e3de,ffffff&title_color=000000&text_color=000000"/> </div> 
-</div>
